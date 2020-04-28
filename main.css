@@ -253,6 +253,7 @@
         left: 50%;
         right: initial;
         transform: translateX(-50%);
+        opacity: 1 !important;
   }
 
 
