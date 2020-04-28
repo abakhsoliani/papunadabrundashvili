@@ -377,13 +377,15 @@
     color: #121212;
     transition: all .5s ease;
     display: block;
+    font-size: 1.2em;
 }
 
 .right-side .date{
     opacity: 0;
     display: block;
     color: #121212;
-    transition: all .5s ease ;
+    transition: all .5s ease;
+    font-size: 1.2em;
 }
 
 .left-side .hint{

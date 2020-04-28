@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", function(){
             clearTimeout(dimTimeout);
             dimTimeout = setTimeout(function() {
                 $("body").addClass("dim");
-            }, 3500);
+            }, 3400);
         }
 
         function scrollHide(){
