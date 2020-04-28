@@ -248,13 +248,12 @@
 
 }
 
-.list .bg .image-title{
-    top: calc(100% + 2em);
-    left: 50%;
-    right: initial;
-    transform: translateX(-50%);
-    opacity: 1 !important;
-}
+  .list .bg .image-title{
+        top: calc(100% + 2em);
+        left: 50%;
+        right: initial;
+        transform: translateX(-50%);
+  }
 
 
 
