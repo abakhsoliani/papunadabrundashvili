@@ -272,7 +272,7 @@
 
 .list .bg .image-title span{
     color: #507292;
-    font-size: 2em;
+    font-size: 2.3em;
 }
 
 
@@ -368,7 +368,7 @@
 
 .left-side{text-align: right;top: 20%;position: absolute;right: calc(100% + 5em);width: 16em;}
 
-.right-side{text-align: center;bottom: 11%;position: absolute;left: calc(100% + 5em);width: 13em;}
+.right-side{text-align: center;bottom: 11%;position: absolute;left: calc(100% + 5em);width: 15em;}
 
 
 
@@ -378,7 +378,7 @@
     color: #121212;
     transition: all .5s ease;
     display: block;
-    font-size: 1.2em;
+    font-size: 1.4em;
 }
 
 .right-side .date{
@@ -386,7 +386,7 @@
     display: block;
     color: #121212;
     transition: all .5s ease;
-    font-size: 1.2em;
+    font-size: 1.3em;
 }
 
 .left-side .hint{
