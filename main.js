@@ -228,9 +228,9 @@ document.addEventListener("DOMContentLoaded", function(){
             {
                 main_image : "main.jpg",
                 title: "DANCE DANCE DANCE",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
-                description: "it was made 3 yaers ego",
+                main_details: "2018 / NY / 1200$",
+                details: "Materials: Marble",
+                description: "",
                 images : ["main.jpg","_MG_5152-min.JPG",],
                 color : "#507292"
 
@@ -238,8 +238,8 @@ document.addEventListener("DOMContentLoaded", function(){
             {
                 main_image : "Socious.jpg",
                 title: "SOCIOUS",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
+                main_details: "2016 / NY / 1500$",
+                details: "Materials: Traventin",
                 description: "The place and the environment we grow up define our personalities. We assimilate the traditions and cultural norms and it becomes difficult to get oriented in the concepts of good and bad. Only when one crosses the boundaries of their own culture and interacts with different socius are they capable of assessing and evaluating from different perspective. Only then does one start analyzing and perceiving that leads to forming one’s own attitude",
                 images : ["Socious.jpg","5-min.JPG"],
                 color : "#77482e"
@@ -248,19 +248,19 @@ document.addEventListener("DOMContentLoaded", function(){
             {
                 main_image : "separation.jpg",
                 title: "SEPARATION OF SUBCONSCIOUSNESS",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
+                main_details: "2016 / NY / 5000$",
+                details: "Materials: Black Absolute Granit",
                 description: '"If someone talks of subconsciousness, I cannot tell whether he means the term topographically – to indicate something lying in the mind beneath consciousness – or qualitatively – to indicate another consciousness, a subterranean one, as it were. He is probably not clear about any of it. The only trustworthy antithesis is between conscious and unconscious." Sigmund Freud',
-                images : ["main.jpg","2-min.JPG","8-min.JPG"],
+                images : ["separation.jpg","2-min.JPG","8-min.JPG"],
                 color : "#507292"
 
             },
             {
                 main_image : "fromparallelworld.jpg",
                 title: "FROM PARALLEL WORLD",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
-                description: "it was made 3 yaers ego",
+                main_details: "2017 / NY / 1200$",
+                details: "Materials: Marble",
+                description: "",
                 images : ["fromparallelworld.jpg"],
                 color : "#77482e"
 
@@ -268,8 +268,8 @@ document.addEventListener("DOMContentLoaded", function(){
             {
                 main_image : "sadness.jpg",
                 title: "SADNESS",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
+                main_details: "2017 / NY / 1200$",
+                details: "Materials: Marble",
                 description: "Goal of sadness is actually to help us feel strong, alive and courageous in the face of life’s adversities. It forces us to stop and focus, and so it is common to feel more tired, slower, and less receptive to everything around us.",
                 images : ["sadness.jpg","_MG_5113-min.JPG", "_MG_5114-min.JPG"],
                 color : "#77482e"
@@ -278,19 +278,19 @@ document.addEventListener("DOMContentLoaded", function(){
             {
                 main_image : "lovestory.jpg",
                 title: "LOVESTORY",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
-                description: "it was made 3 yaers ego",
+                main_details: "2019 / NY / Sold",
+                details: "Materials: Marble",
+                description: "",
                 images : ["lovestory.jpg","81733485_451840212436004_544385373896179712_n-min.jpg"],
                 color : "#646d89"
 
             },
             {
                 main_image : "horse.jpg",
-                title: "HORSE",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
-                description: "it was made 3 yaers ego",
+                title: "HORSO",
+                main_details: "2019 / NY / Sold",
+                details: "Materials: Marble",
+                description: "",
                 images : ["horse.jpg","44819313_1881600601962772_5532613859518447616_o-min.jpg", "62606163_2219044968183420_6948590763701698560_n (2)-min.jpg"],
                 color : "#646d89"
 
@@ -298,9 +298,9 @@ document.addEventListener("DOMContentLoaded", function(){
             {
                 main_image : "monk.jpg",
                 title: "MONK",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
-                description: "it was made 3 yaers ego",
+                main_details: "2006 / Tbilisi / Sold",
+                details: "Gyps",
+                description: "",
                 images : ["monk.jpg","DSC07872-min.JPG"],
                 color : "#524d4d"
 
@@ -308,9 +308,9 @@ document.addEventListener("DOMContentLoaded", function(){
             {
                 main_image : "lesscomunication.jpg",
                 title: "LESS COMMUNICATION",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
-                description: "it was made 3 yaers ego",
+                main_details: "NY / 2017 / Sold",
+                details: "Materials: Granit Traventin Onix",
+                description: "",
                 images : ["lesscomunication.jpg"],
                 color : "#7a350a"
 
@@ -318,11 +318,31 @@ document.addEventListener("DOMContentLoaded", function(){
             {
                 main_image : "ellevation.jpg",
                 title: "ELLEVATION",
-                main_details: "2010 / NY / Sold",
-                details: "Materials: Basalt, Stone, &nbsp; &nbsp; &nbsp; Size: 12x41",
-                description: "it was made 3 yaers ego",
+                main_details: "NY / 2019 / 5000$",
+                details: "Materials: Sendstone",
+                description: "",
                 images : ["ellevation.jpg","70719088_2403467429776084_1072548158099161088_o-min.jpg"],
                 color : "#c59244"
+
+            },
+            {
+                main_image : "62135768_512940145911137_8674338473257205760_n (1).jpg",
+                title: "NY",
+                main_details: "NY / 2019 / 5000$",
+                details: "Materials: Sendstone",
+                description: "",
+                images : ["62135768_512940145911137_8674338473257205760_n (1).jpg","81220775_2422409928088813_6700354199592370176_n.jpg"],
+                color : "#524d4d"
+
+            },
+            {
+                main_image : "80467803_603566200186516_3286246174440292352_n-min.jpg",
+                title: "ADICT",
+                main_details: "NY / 2019 / Sold",
+                details: "Materials: Quartz",
+                description: "",
+                images : ["80467803_603566200186516_3286246174440292352_n-min.jpg","80390514_908987299496110_12341609999892480_n-min.jpg", "62214984_336021923749403_5290614257937809408_n.jpg"],
+                color : "#524d4d"
 
             },
         ];
@@ -338,7 +358,7 @@ document.addEventListener("DOMContentLoaded", function(){
             $(".desc-title").attr("style" , "color:" + data[id-1].color);
             $(".desc-main-details").html(data[id-1].main_details);
             $(".desc-details").html(data[id-1].details);
-            $(".desc").html(data[id-1].description)
+            document.getElementById("desc").innerHTML = data[id-1].description;
             var appendString = ""
             for(var i = 0; i < data[id-1].images.length; i++){
             
