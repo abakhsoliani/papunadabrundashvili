@@ -25,8 +25,17 @@
     color: #121212;
   }
 
+  body{
+    transition: opacity .5s ease;
+  }
 
+  body.not-loaded{
+      opacity: 0;
+  }
 
+  body{
+    opacity: 1;
+}
 
   body.main-page{
       overflow: hidden;
