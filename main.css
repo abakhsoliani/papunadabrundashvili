@@ -94,7 +94,7 @@
     background: rgb(29,57,103);
     background: -moz-linear-gradient(128deg, rgba(29,57,103,1) 11%, rgba(21,43,82,1) 70%);
     background: -webkit-linear-gradient(128deg, rgba(29,57,103,1) 11%, rgba(21,43,82,1) 70%);
-    background: linear-gradient(128deg, rgb(34, 78, 138) 11%, rgb(20, 45, 88) 70%);
+    background: white;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1d3967",endColorstr="#152b52",GradientType=1);
     width: 100%;
     height: 100%;
@@ -155,8 +155,16 @@
 }
 
 
-.main-page .menu .item, .dark-mode .menu .item, .main-page .logo, .dark-mode .logo{
-    color: white;
+.main-page .menu .item, .main-page .logo{
+    color: #121212;
+}
+
+.dark-mode .menu .item{
+color: white;
+}
+
+.dark-mode .logo{
+color:white;
 }
 
 .loaded.main-page .menu .item{
@@ -272,10 +280,9 @@
 .bg .image-title span{
     font-size: 10em;
     font-family: sinhala;
-    color: white;
+    color: #1b4275;
     letter-spacing: 6px;
     position: relative;
-    text-shadow: 0px 0px 6px rgba(255, 255, 255, 0.06);
     white-space: nowrap;
 }
 
@@ -340,9 +347,9 @@
 }
 
 .click-any {
-    color: white;
+    color: #121212;
     position: absolute;
-    border: 1px solid white;
+    border: 1px solid #121212;
     width: 35px;
     height: 35px;
     border-radius: 50%;
